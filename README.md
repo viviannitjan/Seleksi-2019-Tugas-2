@@ -28,12 +28,9 @@
 ### Screenshots
 Expor Impor Table Database in Studio 3T (MongoDB GUI)
 ![Screenshot](screenshots/impor_1.png)
-![Screenshot](screenshots/impor_2.png)
-![Screenshot](screenshots/ekspor_1.png)
+
 ![Screenshot](screenshots/ekspor_2.png)
 
 ### Reference
 - [Studio 3T](https://studio3t.com/)
 - [MongoDB](https://www.mongodb.com/)
-
-
